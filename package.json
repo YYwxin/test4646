@@ -6,6 +6,7 @@
   "dependencies": {
     "jquery": "^3.4.1",
     "less": "^3.11.1"
+    "zepto":"^1.2.0"
   },
   "devDependencies": {},
   "scripts": {
