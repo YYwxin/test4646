@@ -1,0 +1,25 @@
+{
+  "name": "test4646",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "less": "^3.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "lessc": "lessc css/index.less css/index.min.css -x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YYwxin/test4646.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YYwxin/test4646/issues"
+  },
+  "homepage": "https://github.com/YYwxin/test4646#readme"
+}
